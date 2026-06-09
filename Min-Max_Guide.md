@@ -35,7 +35,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
   - [General Fishing Strategy](#general-fishing-strategy)
   - [Weapons](#weapons)
   - [General Mines Strategy](#general-mines-strategy)
-  - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
+  - [General Skull Cavern Strategy](#general-skull-cavern-strategy)
   - [Weather Modifications](#weather-modifications)
   - [Pet Mechanics](#pet-mechanics) <!-- cspell:disable-line -->
   - [Ginger Island](#ginger-island)
@@ -661,7 +661,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Furthermore, if you need more gold to finish the vault (42,500g), then fish at the mountain lake, and finish the vault as soon as possible.
   - If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
 - Once you have reached floor 120 of the mines, move all of the furnaces from the mines back to your farm.
-- Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-caverns-strategy).)
+- Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
 - During periods of downtime, you can:
   - Start to clear debris on the farm where your Quality Sprinklers + Starfruit crop will go.
   - Craft + place flooring where the Quality Sprinklers will go.
