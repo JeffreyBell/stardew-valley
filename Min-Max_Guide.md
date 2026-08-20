@@ -769,11 +769,11 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 
 ### Summer 9
 
-- Ship enough items to buy the second batch of Starfruit Seeds.
+- Ship enough items to buy the second batch of Starfruit Seeds. Pierre's shop will be closed on the 10th (Wednesday) and 11th (Luau) so you cannot sell produce the same day that you want to buy the seeds.
 
 ### Summer 10
 
-- Buy the second batch of Starfruit Seeds. (We have to buy them today because the Oasis is closed tomorrow for the Luau.)
+- Buy the second batch of Starfruit Seeds.
 
 ### Summer 11
 
